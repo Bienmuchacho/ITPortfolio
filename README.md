@@ -30,8 +30,9 @@ Exploitations of the server consisted of similar methods to the Linux side. Howe
 
 Part 4: Penetration Test Report
 Below is a link to my pentest report. Feel free to read in order to view detailed steps of the process.
-
-[https://github.com/Bienmuchacho/ITPortfolio/blob/main/Joel%20Anglin%20Rekall%20Penetration%20%20Report.docx
+[https://drive.google.com/open?id=1hDng4aB6qt4yuj4GQ7eeVM74tIhrca3c
 ](url)
+
+
 
 
